@@ -1,0 +1,21 @@
+{
+    "name": "dmx",
+    "displayName": "DMX",
+    "description": "simple color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DMX theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DMX theme-color-theme.json"
+            }
+        ]
+    }
+}
